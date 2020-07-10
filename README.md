@@ -1,4 +1,4 @@
-## 👋 Hi I'm Tanapol Chamnanhan, Welcome to my Github Profile 👋
+### 👋✨ Hi I'm Tanapol Chamnanhan, Welcome to my Github Profile ✨👋
 
 💕 สวัสดีคับ ผม ธนพล ชำนาญหาญ หรือ จ้า(ซัน) เป็นนักเรียนวิศวะคอมพิวเตอร์(Computer Engineering Student) และเป็นนักเรียนเทคโนโลยีสารสนเทศ(Information Technology Student) เป็นคนที่ชอบในการพัฒนาเว็บไซต์และเขียนโปรแกรม มีงานอดิเรกคือ เล่นดนตรี เป็นมือเบส และเป็นเกมเมอร์💕
 
