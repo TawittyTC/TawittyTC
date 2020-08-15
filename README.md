@@ -6,7 +6,7 @@
 
 #### ❤ I'm graduated in Information Technology.
 
-![Tanapol Chamnanhan](https://scontent.fhdy3-1.fna.fbcdn.net/v/t1.0-9/67901083_779714005776669_1710375149724762112_o.jpg?_nc_cat=104&_nc_sid=13bebb&_nc_eui2=AeFtnock2XyIsmAVhyDLdEyQjXpF964MJEGNekX3rgwkQb-4KxJPbWbS9OPsPHOwYXMLu1Nvmil8Da3xyo96mSaT&_nc_ohc=_WO0X8bQNv0AX9PiO6L&_nc_ht=scontent.fhdy3-1.fna&oh=9ca1bf6c3b674c20fc354345dcadf2ff&oe=5F5BE29F)
+![Tanapol Chamnanhan](https://scontent.fhdy3-1.fna.fbcdn.net/v/t1.0-9/70548377_808243626257040_5803393508668604416_o.jpg?_nc_cat=107&_nc_sid=05277f&_nc_eui2=AeEe5c1kFH2iE0f8wjK27C9srx3c62YwQXCvHdzrZjBBcBAcllsqJhsCf4GXDFozJg-EyeO4OYip8TSOb0gFu6_w&_nc_ohc=RnGTuggK7uYAX9Fv-LM&_nc_ht=scontent.fhdy3-1.fna&oh=be12a0e06e078ad11fd21b4d79fa4b13&oe=5F5C5716)
 
 #### 😄Quotes
 >"อย่าอ้อนขอ จงไขว่คว้ามา ไม่งั้นก็ไม่มีทางจะสำเร็จ こうきょうしへんエウレカセブン
