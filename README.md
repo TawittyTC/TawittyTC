@@ -7,6 +7,7 @@
 #### ❤ I'm graduated in Information Technology.
 
 ![Tanapol Chamnanhan] (https://scontent.fhdy3-1.fna.fbcdn.net/v/t1.6435-9/70548377_808243626257040_5803393508668604416_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=19026a&_nc_ohc=ibIZvctsemMAX9Qf5J5&_nc_ht=scontent.fhdy3-1.fna&oh=00_AT_kxEr-hFfXvwDdUvIMGvbQG2dFZ_i2KgC-0oHh7O8qwg&oe=61E72099)
+
 #### 😄Quotes
 >"อย่าอ้อนขอ จงไขว่คว้ามา ไม่งั้นก็ไม่มีทางจะสำเร็จ こうきょうしへんエウレカセブン
 >
