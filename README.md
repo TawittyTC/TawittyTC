@@ -6,7 +6,6 @@
 
 #### ❤ I'm graduated in Information Technology.
 
-![image] (https://www.facebook.com/photo/?fbid=808243622923707&set=a.130746660673410.jpg)
 
 #### 😄Quotes
 >"อย่าอ้อนขอ จงไขว่คว้ามา ไม่งั้นก็ไม่มีทางจะสำเร็จ こうきょうしへんエウレカセブン
