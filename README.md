@@ -5,10 +5,10 @@
 💕 สวัสดีคับ ผม"ธนพล ชำนาญหาญ" หรือ "จ้า" เป็นนักเรียนวิศวะคอมพิวเตอร์(Computer Engineering Student) และเป็นนักเรียนเทคโนโลยีสารสนเทศ(Information Technology Student) เป็นคนที่ชอบในการพัฒนาเว็บไซต์และเขียนโปรแกรม มีประสบการ์ณฝึกงานที่บริษัท Advice มีงานอดิเรกคือ เล่นดนตรี เป็นมือเบส เล่นกีฬา และเป็นเกมเมอร์💕
 
 ##Personal Information
-Mr.Tanapol Chamnanhan
-Mobile : +66 96-243-7210
-Email : tanapol.ch@rmutsvmail.com
-Nationality : Thai
+- Mr.Tanapol Chamnanhan
+- Mobile : +66 96-243-7210
+- Email : tanapol.ch@rmutsvmail.com
+- Nationality : Thai
 
 
 ##Education
@@ -23,7 +23,7 @@ Nationality : Thai
 - Joined academic competition in The ASEAN Undergraduate Conference In Computing 2023 (AUC2)
 
 ##Work Experience
-Technical Apprentice at Advice Songkhla 14 October 2019 - 15 December 2019
+- Technical Apprentice at Advice Songkhla 14 October 2019 - 15 December 2019
 
 
 #### 😄Quotes
