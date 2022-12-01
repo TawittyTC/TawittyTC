@@ -4,8 +4,26 @@
 
 💕 สวัสดีคับ ผม"ธนพล ชำนาญหาญ" หรือ "จ้า" เป็นนักเรียนวิศวะคอมพิวเตอร์(Computer Engineering Student) และเป็นนักเรียนเทคโนโลยีสารสนเทศ(Information Technology Student) เป็นคนที่ชอบในการพัฒนาเว็บไซต์และเขียนโปรแกรม มีประสบการ์ณฝึกงานที่บริษัท Advice มีงานอดิเรกคือ เล่นดนตรี เป็นมือเบส เล่นกีฬา และเป็นเกมเมอร์💕
 
-#### ⚡ I'm graduate computer engineering
-#### ⚡ I'm graduated in Information Technology.
+##Personal Information
+Mr.Tanapol Chamnanhan
+Mobile : +66 96-243-7210
+Email : tanapol.ch@rmutsvmail.com
+Nationality : Thai
+
+
+##Education
+#### ⚡ I'm graduated Vacational Certificate at Songkhla Technical Collage Major in Information Techonology , Songkhla , Thailand May 2017 - March 2019 
+#### ⚡ I’m currently studying for a Bachelor's degree in Computer Engineering at Rajamangala University of Technology Srivijaya
+
+## Honors
+- Joined in the line-following robot competition at Rajamangala University of Technology Srivijaya
+- Accredited professional qualifications Digital Industry Profession Software and Applications system tester level 4 
+- Joined StartUp Thailand Leage Coaching 2021
+- Joined StartUp Thailand Leage 2022
+- Joined academic competition in The ASEAN Undergraduate Conference In Computing 2023 (AUC2)
+
+##Work Experience
+Technical Apprentice at Advice Songkhla 14 October 2019 - 15 December 2019
 
 
 #### 😄Quotes
