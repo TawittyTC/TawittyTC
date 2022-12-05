@@ -2,7 +2,7 @@
 
 
 
-# Hi, I am Tanapol Chamnanhan <img src="moji006.gif" width="4%" height="4%" class="center">
+# Hi, I am Tanapol Chamnanhan. <img src="moji006.gif" width="4%" height="4%" class="center">
 ## Welcome to my Github Profile ⚡
 
 💕 Hello everyone.  My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create website and create innovation.
