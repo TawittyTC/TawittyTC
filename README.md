@@ -1,8 +1,8 @@
 <img src="Readme-img02.png" width="100%" geight="100%" class="center">
-<img src="moji01.gif" width="10%" geight="10%" class="center">
 
 
-# Hi I'm Tanapol Chamnanhan 👋
+
+# Hi <img src="moji01.gif" width="5%" geight="5%" class="center"> I'm Tanapol Chamnanhan 👋
 ## Welcome to my Github Profile ✨
 
 💕 Hello everyone.  My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create website and create innovation.
