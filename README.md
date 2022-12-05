@@ -1,4 +1,4 @@
-<img src="Readme-img02.png" width="700" geight="70" class="center">
+<img src="Readme-img02.png" width="1000" geight="100" class="center">
 
 # Hi I'm Tanapol Chamnanhan 👋
 ## Welcome to my Github Profile ✨
