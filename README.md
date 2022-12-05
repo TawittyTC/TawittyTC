@@ -1,20 +1,20 @@
-<img src="Readme-img02.png" width="100%" geight="100%" class="center">
+<img src="Readme-img02.png" width="100%" height="100%" class="center">
 
 
 
-# Hi <img src="moji01.gif" width="5%" geight="5%" class="center"> I'm Tanapol Chamnanhan 👋
-## Welcome to my Github Profile ✨
+# Hi I am Tanapol Chamnanhan <img src="moji006.gif" width="4%" height="4%" class="center">
+## Welcome to my Github Profile <img src="moji002.gif" width="3%" height="3%" class="center">
 
 💕 Hello everyone.  My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create website and create innovation.
 
-## Personal Information
+## Personal Information 
 - Mr.Tanapol Chamnanhan
 - Mobile : +66 96-243-7210
 - Email : tanapol.ch@rmutsvmail.com
 - Nationality : Thai
 
 
-## Education
+## Education 
 #### ⚡ I'm graduated Vacational Certificate at Songkhla Technical Collage Major in Information Techonology , Songkhla , Thailand May 2017 - March 2019 
 #### ⚡ I’m currently studying for a Bachelor's degree in Computer Engineering at Rajamangala University of Technology Srivijaya
 
@@ -25,14 +25,14 @@
 - Joined StartUp Thailand Leage 2022
 - Joined academic competition in The ASEAN Undergraduate Conference In Computing 2023 (AUC2)
 
-## Work Experience
+## Work Experience 
 - Technical Apprentice at Advice Songkhla 14 October 2019 - 15 December 2019
 
 
 #### 😄Quotes
->"อย่าอ้อนขอ จงไขว่คว้ามา ไม่งั้นก็ไม่มีทางจะสำเร็จ こうきょうしへんエウレカセブン
+> “ The Future Starts Today, Not Tomorrow. ”
 >
-> ~ ฮอลแลนด์ โนวัก(~ ホランド・ノヴァク ~ Holland Novac)
+> — Pope John Paul II
 <!--
 **TawittyTC/TawittyTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
