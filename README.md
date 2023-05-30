@@ -2,10 +2,10 @@
 
 
 
-# Hi, I am Tanapol Chamnanhan <img src="moji006.gif" width="4%" height="4%" class="center">
+# Hi, I am Tanapol Chamnanhan 
 ## Welcome to my Github Profile ⚡
 
-💕 Hello everyone, My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create websites and create innovation.
+Hello everyone, My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create websites and create innovation.
 
 ## Personal Information 
 - Mr.Tanapol Chamnanhan
@@ -15,8 +15,8 @@
 
 
 ## Education 
-#### ⚡ I'm graduated Vacational Certificate at Songkhla Technical Collage Major in Information Techonology , Songkhla , Thailand May 2017 - March 2019 
-#### ⚡ I’m currently studying for a Bachelor's degree in Computer Engineering at Rajamangala University of Technology Srivijaya
+#### I'm graduated Vacational Certificate at Songkhla Technical Collage Major in Information Techonology , Songkhla , Thailand May 2017 - March 2019 
+#### I’m currently studying for a Bachelor's degree in Computer Engineering at Rajamangala University of Technology Srivijaya
 
 ## Honors
 - Joined in the line-following robot competition at Rajamangala University of Technology Srivijaya
@@ -29,7 +29,7 @@
 - Technical Apprentice at Advice Songkhla 14 October 2019 - 15 December 2019
 
 
-#### 😄Quotes
+#### Quotes
 > “ The Future Starts Today, Not Tomorrow. ”
 >
 > — Pope John Paul II
