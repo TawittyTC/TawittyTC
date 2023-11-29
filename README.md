@@ -5,7 +5,7 @@
 # Hi, I am Tanapol Chamnanhan 
 ## Welcome to my Github Profile
 
-Hello everyone, My name is Tanapol Chamnanhan. I am a student of computer engineering and I am a student of information Technology. I liked to code, create websites and create innovation.
+Greetings, I'm Tanapol Chamnanhan, a computer engineering and information technology student. Proficient in coding, web development, and innovation, I'm eager to contribute my skills to dynamic teams. Let's connect and create. Best, Tanapol Chamnanhan.
 
 ## Personal Information 
 - Mr.Tanapol Chamnanhan
